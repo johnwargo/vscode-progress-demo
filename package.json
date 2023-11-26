@@ -1,13 +1,13 @@
 {
   "name": "progress-demo",
   "displayName": "progress-demo",
-  "description": "Visual Studio Code extension that demonstrates how to cancel an progress bar from an external async process",
+  "description": "A Visual Studio Code extension that demonstrates how to cancel an progress bar from an external async process",
   "author": "John M. Wargo",
   "license": "MIT",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnwargo/vscode-describer-genai"
+    "url": "git+https://github.com/johnwargo/vscode-progress-demo"
   },
   "engines": {
     "vscode": "^1.84.0"
